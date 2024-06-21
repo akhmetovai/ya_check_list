@@ -1,0 +1,11 @@
+response_id,assessment_type,check_dt,auditor_login_nm,rookie_login_nm,introduction_flg,lpr_connection_opt,contact_flg,customer_needs_ident_opt,product_present_flg,deal_offer_opt,objection_answers_opt,summary_flg,active_listen_flg,politeness_flg,expertise_flg,rookie_growth_zones,growth_tasks,call_link,check_list_nm,creator_nm,creaton_dttm,changer_nm,change_dttm,deleted_flg
+0,0,2024-06-30,aud1,rookie1,0,0,0,0,0,0,0,0,0,0,0,Ок,No,link_123,Чек-лист для оценки коммуникаций,,,,,0
+1,1,2024-07-01,aud1,rookie1,0,1,0,1,0,1,1,0,0,0,1,Ок,No,link_124,Чек-лист для оценки коммуникаций,,,,,0
+2,0,2024-07-02,aud1,rookie1,1,2,1,2,1,2,2,1,1,1,0,Ок,No,link_125,Чек-лист для оценки коммуникаций,,,,,0
+3,0,2024-07-03,aud1,rookie2,1,0,1,0,1,0,0,1,0,1,0,Ок,No,link_126,Чек-лист для оценки коммуникаций,,,,,0
+4,0,2024-07-04,aud1,rookie1,1,1,1,1,1,1,1,1,1,1,1,Ок,No,link_127,Чек-лист для оценки коммуникаций,,,,,0
+5,1,2024-07-05,aud2,rookie2,1,2,0,2,0,2,2,0,0,1,0,Ок,No,link_128,Чек-лист для оценки коммуникаций,,,,,0
+6,0,2024-07-06,aud3,rookie3,0,0,1,0,1,0,0,1,1,0,1,Ок,No,link_129,Чек-лист для оценки коммуникаций,,,,,0
+7,1,2024-07-07,aud4,rookie4,0,1,1,1,1,1,1,1,1,0,1,Ок,No,link_130,Чек-лист для оценки коммуникаций,,,,,0
+8,0,2024-07-08,aud5,rookie5,1,2,1,2,1,2,2,1,1,1,1,Ок,No,link_131,Чек-лист для оценки коммуникаций,,,,,0
+9,1,2024-07-09,aud6,rookie6,0,1,0,1,0,1,1,0,0,0,0,Ок,No,link_132,Чек-лист для оценки коммуникаций,,,,,0

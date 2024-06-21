@@ -1,0 +1,26 @@
+column,check_type,data_type,description,options
+response_id,9,integer,Идентификатор чек-листа,Инкремент
+assessment_type,3,varchar(512),Выбери тип оценки,Первичный / вторичный
+check_dt,6,date,Дата оценки,
+auditor_login_nm,0,varchar(256),Логин проверяющего,
+rookie_login_nm,0,varchar(256),Логин новичка,
+introduction_flg,3,varchar(512),Представление,0 | 1
+lpr_connection_opt,3,varchar(512),Выход на ЛПР,0 | 1 | 2
+contact_flg,3,varchar(512),Установление контакта,0 | 1
+customer_needs_ident_opt,3,varchar(512),Выявление потребности клиента,0 | 1 | 2
+product_present_flg,3,varchar(512),Презентация продукта,0 | 1
+deal_offer_opt,3,varchar(512),Предложение о сделке,0 | 1 | 2
+objection_answers_opt,3,varchar(512),Отработка возражений,0 | 1 | 2
+summary_flg,3,varchar(512),Резюмирование договоренностей,0 | 1
+active_listen_flg,3,varchar(512),Активное слушание,0 | 1
+politeness_flg,3,varchar(512),Телефонный этикет,0 | 1
+expertise_flg,3,varchar(512),Экспертиза,0 | 1
+rookie_growth_zones,3,varchar(512),Зона роста сотрудника,
+growth_tasks,3,varchar(512),Развивающие задачи,
+call_link,3,varchar(512),Запись звонка,link
+check_list_nm,5,varchar(256),Название чек-листа,Чек-лист для оценки коммуникаций
+creator_nm,0,varchar(256),Кто создал,
+creaton_dttm,7,datetime,Время создания,
+changer_nm,0,varchar(256),Кто изменил,
+change_dttm,7,datetime,Время создания,
+deleted_flg,8,bool,Флаг удаления,0 | 1
